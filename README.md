@@ -1,6 +1,3 @@
-#File Searche
+# File Searche
 
-`
-go run maing.go / filename
-
-`
+`go run maing.go / filename`
